@@ -3,7 +3,7 @@ import BannerImg from "../../Assets/portfolio-img.png";
 import { DownloadIcon } from '@heroicons/react/outline'
 const Banner = () => {
     return (
-        <div className='max-w-7xl mx-auto px-12 '>
+        <div className='max-w-7xl mx-auto px-12'>
             <div class="hero min-h-screen ">
                 <div class="hero-content flex-col lg:flex-row">
                     <div className='avatar'>
